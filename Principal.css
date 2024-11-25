@@ -1,0 +1,233 @@
+/*aprende sobre selectores*/
+#nike2{ 
+  height: 300px ;
+  width: 300px ;
+}
+.bienvenido{
+ font-size: 60px;
+ text-align: center;
+}
+.envio{
+  color:rgb(0, 0, 0);
+}
+.fondo{
+  background-color: rgb(238, 235, 235) ;
+  border: 5px rgb(238, 235, 235) solid ;
+  text-align:center ;
+}
+.yo{
+  background-color: rgb(238, 235, 235) ;
+  border: 5px rgb(238, 235, 235) solid ;
+}
+.yoimagen{
+  height: 300px ;
+  width:300px ;
+  position: absolute;
+  top: 400px;
+  left: 325px;
+  padding-bottom: 100px;
+}
+.liceo{
+  height: 300px ;
+  width:200px ;
+  position: absolute;
+  top: 400px;
+  left: 725px;
+  padding-bottom: 100px;
+}
+.yotexto{
+  font-size: 50px;
+  text-align: center;
+}
+#establecimiento{
+  text-align: center;
+  font-size: 30px;
+}
+
+.cabeza{  
+  background-color: rgb(235, 234, 234) ;
+  font-size: 27px;
+}
+#nike{
+  height: 50px  ;
+  width: 80px;
+}
+#nike1{
+  height: 70px ;
+  width: 80px ;
+
+}
+#balones{
+  height: 300px ;
+  width:300px ;
+  position: absolute;
+  top: 600px;
+  left: 150px;
+}
+.balones{
+  position: absolute;
+  left: 230px;
+  top: 530px
+}
+#camisetas{
+  height: 300px;
+  width: 300px;
+  position: absolute;
+  left:525px ;
+  top: 600px
+
+}
+.camisetas{
+  position: absolute;
+  left:610px ;
+  top:530px;
+  
+
+}
+#chuteadores{
+  height: 300px;
+  width: 300px;
+  position: absolute;
+  left:890px ;
+  top: 600px;
+  
+
+}
+.chuteadores{
+  position: absolute;
+  left:960px ;
+  top: 530px;
+  
+}
+.login{
+ position: relative;
+ left: 920px;
+ bottom: 23px;
+}
+.fondocatalogo{
+  background-color: white;
+}
+*{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.login:link{
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
+}
+.login:visited{
+  color:black;
+  font-family:Arial, Helvetica, sans-serif ;
+}
+.login:hover{
+  color: gray;
+}
+#catalogos{
+  font-size:50px ;
+  position: relative;
+  top:50px;
+  left: 550px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-bottom:600px ;
+}
+body{
+ padding: 0%;
+ margin: 0%;
+ height: 100%;
+ overflow-x: hidden;
+ padding: 0%;
+}
+footer{
+  background-color: rgb(26, 24, 24);
+  padding-top: 100px ;
+  padding-bottom: 20px;
+  width: 100%;
+}
+#seguir{
+  color: rgb(255, 255, 255);
+  position: relative;
+  bottom: 50px;
+  left: 80px;
+  font-size: 25px;
+}
+#derechos{
+  color: gray;
+  position: relative;
+  left: 10px;
+  top: 10px;
+}
+.terminos:link{
+   color: gray;
+}
+.terminos:visited{
+  color: gray;
+}
+.terminos:hover{
+  color: rgb(255, 255, 255);
+}
+.creador:link{
+  color: gray;
+}
+.creador:visited{
+ color: gray;
+}
+.creador:hover{
+ color: rgb(255, 255, 255);
+}
+.terminos{
+  position: relative;
+  left: 600px;
+  bottom: 10px;
+}
+.creador{
+  position: relative;
+  left: 580px;
+  bottom: 10px;
+}
+#ig{
+  height: 50px;
+  width: 50px;
+  position: absolute;
+  top: 1120px;
+  left: 50px
+  
+}
+#fcb{
+  height: 50px;
+  width: 50px;
+  position: absolute;
+  top: 1120px;
+  left: 110px;
+}
+#x{
+  height: 50px;
+  width: 50px;
+  position: absolute;
+  top: 1120px;
+  left: 170px;
+}
+#yt{
+  height: 50px;
+  width: 50px;
+  position: absolute;
+  top: 1120px;
+  left: 225px;
+}
+
+
+
+.catalogos1{
+  position:absolute;
+  top: 400px;
+}
+.catalogos1:link{
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.catalogos1:visited{
+  color:black;
+  font-family:Arial, Helvetica, sans-serif ;
+}
+.catalogos1:hover{
+  color: gray;
+}
